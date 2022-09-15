@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "total-pad-356412",
+  "private_key_id": "47d1ccc40d4753657f7978951d2ffcd77d744848",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCopnaGP9j8Mkq3\nngoz4+B/tQT3akBzK+vVfqfil01Kr/IsoS+tF89rhgBtXAmBsvpqthjSCvaGVeJ+\nVZ86yi9I9tdPe1GnJrAHxsao6G4wZYWfBPv6/A66cS8vUF0qS77Rregvvg1YlKDO\nJf225/gXHhM/6u6ESlQ3zXznIKmrg0dohjbVQJbp7PymbykmmyXD6yfwGvPnSlOf\nRuzrwVcg5dR0Q6jUMuiLP7m1SIS5rUhWKrVU52h33bmjEysNcQnf9RSTB/IEYkiJ\nHGkQC4qhoeNnS7F3abFsLS/hyUcyzTCC0vxCm+jmSAb9dJfUqu/pfxntu0uQM6Z7\nld9cdxG3AgMBAAECggEAU2+ffcWCrSqYaoUmmQtpGuVMorcPUatuDn6Nwn2GQKgR\nUOEhvCnmdVSjS3dYQLFyUG7skqXX1xgQaN4lW6mBgUCVvv3MpLxwJDjEOfZb5Vek\npsqJe19OThEG/gptPSqiKgw2rcABzEwjzjlfbykORSmc7mdlP0+ioMTpwVMYfgAy\nTWkxS54kkLPiCqk18AH/omdmiI6VVqFc7udrNBbaekBZqt67Qxtwskpd1a9NFMlU\nTcNEU/VqyiVQeJLOH5RULk1k0FeTC/ta04tOZ/01H8soJNOaLHIT6owkmQu/+Yh9\nWIsBFzXl6oVDJHuzyFqK+rE9EbvNCKpF6C7zhfyF8QKBgQDt5GJA9a9MvEyaVnDD\noS4gGK2l0W7PypTOYBMsGwfPtKEWZzNHWnxYG4HQ2VyPHxxemjDLCZ4AptgF3nBL\nDBVObdlJubGY208l7/HdH8SyQ5eL+wamY1fUdCkb3/wfSG6d5bFhej2B/9dZY/p4\n/S6Ux0quVfKZlRkXHr9YeEGmLwKBgQC1fNE7e5Dgs6S0eFinmRYkNsN/Y2Ui8SCm\n30yPdrC+nM/tXCK0mhZrL+Go95xRadjHQNrslQCaF2cxTTZwV59WI8uQYEM837if\nBLgrwnQcJLdFpmY6hdoJx4tQN7XC0VAb3wR9CcSyXP/gPHe95hUMBH3mHhTt67qB\nUhPOpbzy+QKBgDCBl/Ms5WCdKHVz2KxbCh+rSIT+Dj06TltCRcaBgHc+mnYJ9u++\nqIoCmdau62uXaV50zCwqOthhLL0NnRIAVbvXNC4POgIz/ZB7u3JeDupWU+lL9xAo\nQ3ljchpn8m2ihEOX2TJKDY6bTxrAAwt2fHADrtubVMsyFpqbP2LXqnMrAoGAfnZ6\nScuhuaIUXBkcFbUr45IxifvVxpJlYUJqU/Gt2TTmAozYNibFBm23/giEaYqrHrUH\nmCF/6N/z7TvTelbkVZ7dwz4AvFNcj5o3R27Zf57qAmOgCpmoxHXCkuQvCJDYFIPD\n2elLocoCFturyKyh79zVadt+VAeVz3VFDhMZZekCgYBWR7fK27YiLqicZkB8kAgJ\ntDbZlwJO7qAJSxfZR1svb2DxuYGSQd606gyT1fKOzFpz4Fp+DiM9O8ctUBC4Ljdi\nNutlgUkJj060oZ66bjakAROjd9CenboJb8C4dAhRunV0RLAd0KDJnhYCAKd0cFUy\n0nvSKGQuCpRQ9E0Sshu/Jw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "genesys-dialogflow-test@total-pad-356412.iam.gserviceaccount.com",
+  "client_id": "108038807825328104785",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/genesys-dialogflow-test%40total-pad-356412.iam.gserviceaccount.com"
+}
